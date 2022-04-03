@@ -46,7 +46,10 @@
 	font-size: .6em;
 	padding: .2em;
 	margin-left: 60%;
-
+}
+.presentacion__texto a{
+	color: #F5F5F5;
+	text-decoration: none;
 }
 
 @media(min-width: 769px) {
