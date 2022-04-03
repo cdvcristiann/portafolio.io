@@ -37,6 +37,9 @@
 	color: #F5F5F5;
 
 }
+.imagenSobre .container:hover{
+    opacity: 0.3;
+}
 
 .imagenSobre-sobre-title{	
 	font-size: 2rem;

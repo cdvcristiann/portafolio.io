@@ -1,6 +1,8 @@
 .sobreMi{
 	text-align: center;
 	color: #F5F5F5;
+	transition: 400ms;
+    box-shadow: 10px 10px 30px 15px #000000;
 }
 .ultimo{
 	padding-bottom: 3em;
@@ -15,6 +17,4 @@
 }
 .sobreMi-texto{
 	line-height: 1.5;
-	padding-left: 1.5em;
-	padding-top: .2em;
 }
