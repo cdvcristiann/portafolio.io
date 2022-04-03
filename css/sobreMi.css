@@ -2,19 +2,19 @@
 	text-align: center;
 	color: #F5F5F5;
 	transition: 400ms;
-    box-shadow: 10px 10px 30px 15px #000000;
+    box-shadow: 10px 10px 30px 15px #2A7897;
 }
 .ultimo{
 	padding-bottom: 3em;
 }
 .sobreMi-subtitulo{
 	font-weight:bolder;
-	font-size: 1.7em;
+	font-size: 1.8em;
 	margin: .2em 0;
 	padding-top: .2em;
 	padding-bottom: .2em;	
 	padding-left: .5em;
 }
 .sobreMi-texto{
-	line-height: 1.5;
+	line-height: 1.6em;
 }

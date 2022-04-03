@@ -1,6 +1,6 @@
 body {
 	background: linear-gradient(#5E9EDC, #888888, #5E9EDC, #324C64);
-	font-family: 'Open Sans',Arial,sans-serif;
+	font-family: 'Cormorant Garamond', serif;
 }
 
 .container {
@@ -102,11 +102,12 @@ body {
 }
 
 .perfil-imagen {
-	width: 70%;
 	max-width: 100%;
 	border-radius: 100%;
+	 box-shadow: 10px 10px 30px 15px #2A7897;
 }
 .perfil{
+	width: 40%;
 	text-align: center;
 }
 

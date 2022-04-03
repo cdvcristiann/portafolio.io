@@ -7,6 +7,7 @@
     width: calc(24% - 1.5rem);
 }
 .formacion:hover{
+    transition: .5s;
     width: calc(27% - 1.5rem);
 }
 .formacion__titulo {
@@ -51,6 +52,7 @@
 
     }
     .formacion:hover{
+        transition: .5s;
     width: calc(90% - 1.5rem);
 }
 }
