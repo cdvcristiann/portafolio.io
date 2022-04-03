@@ -1,0 +1,20 @@
+.sobreMi{
+	text-align: center;
+	color: #F5F5F5;
+}
+.ultimo{
+	padding-bottom: 3em;
+}
+.sobreMi-subtitulo{
+	font-weight:bolder;
+	font-size: 1.7em;
+	margin: .2em 0;
+	padding-top: .2em;
+	padding-bottom: .2em;	
+	padding-left: .5em;
+}
+.sobreMi-texto{
+	line-height: 1.5;
+	padding-left: 1.5em;
+	padding-top: .2em;
+}

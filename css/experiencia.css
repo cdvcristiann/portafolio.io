@@ -1,0 +1,54 @@
+.experiencia {
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    margin-right: 1.5rem;
+    width: calc(50% - 1.5rem);
+}
+.experiencia__titulo {
+    text-align: center;
+    font-size: 2rem;
+
+}
+.experiencia-titulo {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #F5F5F5;
+    font-weight:bolder;
+    margin: .1em 0;
+    padding-top: 12%;
+    padding-bottom: ;
+}
+.experiencia__contenido {
+    padding: .5rem;
+}
+.experiencia__fecha{
+    text-align: center;
+    padding: .8rem;
+    font-size: .8rem;
+    padding-bottom: .1rem;
+}
+.experiencia__image{
+    background: black;
+}
+.btn{
+    text-align: center;
+}
+
+
+@media screen and (max-width: 768px) {
+    .experiencia {
+        flex-direction: column;
+        margin-left: 1rem;
+        margin-right: 1.5rem;
+        width: 90%;
+    }
+    .experiencia-titulo {
+        font-size: .7rem;
+    }
+    .experiencia__titulo {
+    font-size: 1rem;
+
+}
+}
