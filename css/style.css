@@ -102,6 +102,7 @@ body {
 }
 
 .perfil-imagen {
+	width: 75%;
 	max-width: 100%;
 	border-radius: 100%;
 	box-shadow: 10px 10px 30px 15px #2A7897;
@@ -156,7 +157,7 @@ body {
 	}
 
 	.perfil-imagen {
-		width: 100%;
+		width: 75%;
 		max-width: 100%;
 		border-radius: 100%;
 		order: 1;
